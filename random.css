@@ -1,0 +1,48 @@
+ *{
+            background-color: lightpink;
+        }
+        h1{
+            color: green;
+            background-color: lightgreen;
+            text-align: center;
+            border: 4px  green dashed;
+        }
+        #inp{
+            color: rgb(0, 0, 0);
+           border: 3px solid  green;
+            height: 50;
+            width: 200px;
+             position: relative;
+            bottom:-150px;
+            left: 40%;
+            
+        }
+        #add{
+            background-color: green;
+            color: white;
+            height: 50px;
+            width: 150px;
+            border-radius:30%;
+            position: relative;
+            left: 40%;
+            font-family: 'Times New Roman';
+            font-size: larger;
+             bottom:-150px;
+            
+        }
+        p{
+            font-size: large;
+            font-family: fantasy;
+            justify-content: center;
+            align-items: center;
+            margin: 50px;
+             
+        }
+        h2{
+            text-align:left;
+            text-decoration: underline double;
+            font-style: oblique bold ;
+            font-size: xx-large
+        }
+        
+        
